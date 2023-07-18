@@ -52,5 +52,10 @@ could finish deploying <br>
 that's why await keyword is so important it at tells the code  to wait until the contract is deployed <br>
 It resolves a promise <br>
 
+it will till the promise exits it's pending state and will return whatever the pending promise <br>
+returns <br>
+
+
+
 
 
