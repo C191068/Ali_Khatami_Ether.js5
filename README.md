@@ -220,5 +220,10 @@ in the above line of code ```deploymentReceipt``` is what we get when we wait fo
 
 ### Sending a raw transaction in ethersjs
 
+Deploying a contract is sending a transaction <br>
+
+
+Here in this section we will create a transaction ourselves to understand what is actually going behind the scene <br>
+
 
 
