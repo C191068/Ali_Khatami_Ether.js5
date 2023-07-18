@@ -63,6 +63,10 @@ returns <br>
 Figure2: We can get more information about ```contractFactory.deploy()``` <br>
 by going to this link https://docs.ethers.org/v5/search/?search=deploy and typind ```deploy``` in search bar<br>
 then going to the blue marked region <br>
+for that we need ```async``` before a function name <br>
+
+
+
 
 
 
