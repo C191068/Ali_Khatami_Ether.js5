@@ -139,6 +139,11 @@ Figure8: we see that the account balance of the wallet account have decreased fr
 
 we can wait for a certain number of blocks for our contract to finish with <br>
 
+We have deployed our contract but it will be better to wait one block more <br>
+
+to make sure that it actually gets attached to the blockchain <br>
+
+
 
 
 
