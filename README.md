@@ -191,6 +191,12 @@ main()
 
 Figure9: we have used this line in the code <br>
 
+After that when I try to deploy the contract i faced problem 
+
+![b21](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/847bd4f8-76fc-443a-a51f-dc47cb07f0ab)
+
+Figure10: for that i have used the above command which is white marked at first then use the command <br>
+which is yellow marked and succesfully deployed the contract <br>
 
 
 
