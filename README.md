@@ -135,6 +135,9 @@ Figure7: then we deployed the contract <br>
 
 Figure8: we see that the account balance of the wallet account have decreased from 100 eth to 99.95 eth <br>
 
+### Transaction receipts
+
+
 
 
 
