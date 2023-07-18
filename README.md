@@ -55,6 +55,9 @@ It resolves a promise <br>
 it will till the promise exits it's pending state and will return whatever the pending promise <br>
 returns <br>
 
+```contractFactory.deploy()``` returns a promise that returns a contract <br>
+
+
 
 
 
