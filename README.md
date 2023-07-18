@@ -68,7 +68,16 @@ for that we need ```async``` before a function name <br>
 
 ### Adding transaction overrides 
 
+To see information about a function in VS code there is a trick <br>
 
+
+![b14](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/0a882f29-08c4-48a0-a22d-fa31a8900d70)
+
+Figure3: if we move a cursor to the ```deploy``` function and hold ```Ctrl``` button and click the link <br>
+
+![b15](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/80ba4b59-7381-4c0f-9dfa-0b5293ffa4f9)
+
+Figure4: we can see the above information about the function <br>
 
 
 
