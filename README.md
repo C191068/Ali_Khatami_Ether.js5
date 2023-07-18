@@ -208,3 +208,12 @@ here to is null because we are creating  a contract
 
 Figure12: here from is the above address marked <br>
 
+```javascript
+const deploymentReceipt = await contract.deployTransaction.wait(1);
+```
+
+
+in the above line of code ```deploymentReceipt``` is what we get when we wait for the trancation confirmation <br>
+
+```deployTransaction``` is what we get when we create our transaction <br>
+
