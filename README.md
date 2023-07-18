@@ -172,6 +172,7 @@ async function main() {
   console.log("Executing, please be patient...");
   const contract = await contractFactory.deploy({ gasPrice: 100000000000 });
   const deploymentReceipt = await contract.deploymentTransaction.wait(1);
+  console.log(deploymentReceipt);
 }
 
 main()
@@ -180,6 +181,7 @@ main()
     console.error(error);
     process.exit(1);
   });
+
 
 ```
 
