@@ -187,7 +187,7 @@ main()
 
 ![b20](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/4b4f4736-65a2-467d-9a4f-7aa7628b2cbb)
 
-Figure9: we have made change in the code <br>
+Figure9: we have used this line in the code <br>
 
 
 
