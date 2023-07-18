@@ -50,4 +50,7 @@ we get the promise in it's pending state because our code actually finish before
 could finish deploying <br>
 
 that's why await keyword is so important it at tells the code  to wait until the contract is deployed <br>
+It resolves a promise <br>
+
+
 
