@@ -154,7 +154,7 @@ async function main() {
   const provider = ethers.getDefaultProvider("http://127.0.0.1:7545");
 
   const wallet = new ethers.Wallet(
-    "0xdf7fe0ce6c0c9ef5d2987ed2ec597ec2110164e4f01a5729263ff0ac1119da58",
+    "0xe520cfe42a8ee1473293ab7eaa36a4a59e342afe40b1ab1ca80a10c9b3b23468",
     provider
   );
 
