@@ -202,6 +202,9 @@ which is yellow marked and succesfully deployed the contract <br>
 
 figure11: here above we can see all information about our transaction and can understand what our transaction looks like <br>
 
+here to is null because we are creating  a contract 
 
+![b23](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/fed32510-fb87-4a59-aa35-58d6b834f72e)
 
+Figure12: here from is the above address marked <br>
 
