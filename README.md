@@ -55,7 +55,7 @@ It resolves a promise <br>
 it will till the promise exits it's pending state and will return whatever the pending promise <br>
 returns <br>
 
-```contractFactory.deploy()``` returns a promise that returns a contract <br>
+```contractFactory.deploy()``` returns a promise that resolves to  a contract <br>
 
 
 ![b13](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/3161c30a-522a-4ee0-8d78-8c33587af30d)
