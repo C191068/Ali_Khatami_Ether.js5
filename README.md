@@ -49,4 +49,5 @@ we get the above output in the output terminal i.e instead of big contract objec
 we get the promise in it's pending state because our code actually finish before our contract <br>
 could finish deploying <br>
 
+that's why await keyword is so important it at tells the code  to wait until the contract is deployed <br>
 
