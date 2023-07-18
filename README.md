@@ -198,6 +198,10 @@ After that when I try to deploy the contract i faced problem
 Figure10: for that i have used the above command which is white marked at first then use the command <br>
 which is yellow marked and succesfully deployed the contract <br>
 
+![b22](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/eb75669d-f855-4539-8701-c99c47e9418d)
+
+figure11: here above we can see all information about our transaction and can understand what our transaction looks like <br>
+
 
 
 
