@@ -137,6 +137,8 @@ Figure8: we see that the account balance of the wallet account have decreased fr
 
 ### Transaction receipts
 
+we can wait for a certain number of blocks for our contract to finish with <br>
+
 
 
 
