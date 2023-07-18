@@ -42,3 +42,11 @@ main()
 
 ```
 
+
+![b12](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/c20335a6-0373-48e0-a23d-9e8c2ba32172)
+Figure1: If we deploy the above contract after removing the await keyword in the yellow marked area <br>
+we get the above output in the output terminal i.e instead of big contract object <br>
+we get the promise in it's pending state because our code actually finish before our contract <br>
+could finish deploying <br>
+
+
