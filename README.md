@@ -225,5 +225,8 @@ Deploying a contract is sending a transaction <br>
 
 Here in this section we will create a transaction ourselves to understand what is actually going behind the scene <br>
 
+We will deploy the above contract again only by using pure transaction data <br>
+
+
 
 
