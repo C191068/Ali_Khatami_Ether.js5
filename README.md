@@ -58,7 +58,11 @@ returns <br>
 ```contractFactory.deploy()``` returns a promise that returns a contract <br>
 
 
+![b13](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/3161c30a-522a-4ee0-8d78-8c33587af30d)
 
+Figure2: We can get more information about ```contractFactory.deploy()``` <br>
+by going to this link https://docs.ethers.org/v5/search/?search=deploy and typind ```deploy``` in search bar<br>
+then going to the blue marked region <br>
 
 
 
