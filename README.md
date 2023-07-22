@@ -438,6 +438,8 @@ Figure34: Then here in the file by this line of code ```const signedTx = await t
 it means that the transcation is signed at first before sending <br>
 
 
+Thus , we have learned how to send transaction using pure javascript and pure ethers <br>
+
 
 
 
