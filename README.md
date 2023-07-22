@@ -284,4 +284,8 @@ Figure14: here that's why we have used nonce equal to 4 because we have not used
 
 Everytime we send transaction it comes with a bit of ```nonce```. Nonce are used in wallets and signers to send transaction <br>
 
+They use use differrent nonce for every transaction <br>
+
+
+
 
