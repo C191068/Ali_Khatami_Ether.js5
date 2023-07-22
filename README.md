@@ -277,3 +277,11 @@ main()
 ![b25](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/81051d78-0c4b-455f-a098-2661fac806bc)
 
 Figure13: here txcount is 3 
+
+![b26](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/596515c4-b262-4c7b-9db9-872f02ffb96a)
+
+Figure14: here that's why we have used nonce equal to 4 because we have not used it before <br>
+
+
+
+
