@@ -405,6 +405,11 @@ Then in the console when we deploy the contract(yellow arrow) we got error(blue 
 
 Figure28: For that I have made three changes in the code first two was with  nonce and last one with chainID <br>
 
+We have use the this line of code ```const nonce = await wallet.getTransactionCount();``` <br>
+to keep updating the nonce so that we don't have to update nonce ourselves <br>
+
+
+
 ![b41](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/c6f8135e-9be5-4c71-bdc9-953f441dc28f)
 
 Figure29: to change the chainId at first go to the settings icon <br>
