@@ -401,5 +401,17 @@ not send it <br>
 Figure27: To send a transaction we have use the three lines of code shown with white arrows <br>
 Then in the console when we deploy the contract(yellow arrow) we got error(blue marked) <br>
 
+![b40](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/7dcb2ee7-0e1e-4adc-93c7-3dcb9dc4e3f8)
+
+Figure28: For that I have made three changes in the code first two was with  nonce and last one with chainID <br>
+
+![b41](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/c6f8135e-9be5-4c71-bdc9-953f441dc28f)
+
+Figure29: to change the chainId at first go to the settings icon <br>
+
+![b42](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/d6198dcd-51b5-4355-a72a-220e15589894)
+
+figure30: at the server option marked with black and in the network id field change from ```5777``` to ```1337``` <br>
+
 
 
