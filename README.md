@@ -324,6 +324,10 @@ Figure21: on ```Ganache``` the white marked region ```Network ID``` is equavalen
 
 Figure22: here the above yellow arrow indicated highlighted parts are information of transaction written in the form of code <br>
 
+![b35](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/6ede36e4-2cca-43e2-9697-a4a817af8335)
+
+Figure23: To signed the above transaction we use the above code marked with white arrow <br>
+
 
 ```javascript
 
