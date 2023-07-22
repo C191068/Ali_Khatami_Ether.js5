@@ -413,5 +413,18 @@ Figure29: to change the chainId at first go to the settings icon <br>
 
 figure30: at the server option marked with black and in the network id field change from ```5777``` to ```1337``` <br>
 
+![b43](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/600480e1-29b9-4f4c-8bd9-433d1a98f487)
+
+figure31: In the console we can see our contract is successfuully deployed <br>
+
+![b44](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/08817b04-8967-4bbc-8ab1-94cacad89220)
+
+Figure32: here at ```Ganache``` successful transactions occured <br>
+
+
+
+
+
+
 
 
