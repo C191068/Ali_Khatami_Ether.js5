@@ -301,6 +301,9 @@ Figure16: we have to copy this data from there <br>
 ![b29](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/24ffc7f5-ec1b-418f-b5d0-529c909ab8cf)
 Figure17: Then at data section after giving double quote within that after tuypin ```0x``` we have to paste it <br>
 
+We have done the above to tell the blockchain or EVM to deploy a smart contract like in the file ```akrkSimplestorage.sol```<br>
+
+
 
 ```javascript
 
