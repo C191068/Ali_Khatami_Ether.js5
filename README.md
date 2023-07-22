@@ -286,6 +286,10 @@ Everytime we send transaction it comes with a bit of ```nonce```. Nonce are used
 
 They use use differrent nonce for every transaction <br>
 
+Nonce when talking about wallets talks about number associated with unique transaction <br>
+
+Nonce when talking about blockchain mining is a value used to solve that hard problem which was taught at blockchain basics <br>
+
 
 
 
