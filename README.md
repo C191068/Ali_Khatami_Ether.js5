@@ -328,6 +328,12 @@ Figure22: here the above yellow arrow indicated highlighted parts are informatio
 
 Figure23: To signed the above transaction we use the above code marked with white arrow <br>
 
+![b36](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/46752350-8070-47a8-a7ea-cfc4dea02d7f)
+
+Figure24: Here in javascript we commnet the above four lines by highlighting them and clicking ```Ctrl+/``` <br>
+
+
+
 
 ```javascript
 
