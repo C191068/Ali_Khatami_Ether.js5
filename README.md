@@ -392,6 +392,10 @@ main()
 Figure25: here we can see after giving the command to deploy the contract we see the massive code <br>
 It is proved that our transaction is signed <br>
 
+![b38](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/555cf960-ad06-4ec8-9c5b-d8be06eef4f0)
+Figure26; here we see that in the block no transaction is send , because we have signed the transaction <br>
+not send it <br>
+
 
 
 
