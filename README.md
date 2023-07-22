@@ -303,6 +303,13 @@ Figure17: Then at data section after giving double quote within that after tuypi
 
 We have done the above to tell the blockchain or EVM to deploy a smart contract like in the file ```akrkSimplestorage.sol```<br>
 
+![b30](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/1b72f153-0ec0-4221-829e-0637622e2cea)
+
+Figure18: next we will add ```chainId``` <br>
+
+
+
+
 
 
 ```javascript
