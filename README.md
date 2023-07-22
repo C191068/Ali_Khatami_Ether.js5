@@ -308,7 +308,13 @@ We have done the above to tell the blockchain or EVM to deploy a smart contract 
 Figure18: next we will add ```chainId``` <br>
 
 
+![b31](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/4b28f3c0-458f-4043-ac8a-a82a2a5afc3a)
 
+Figure19: To find the ChainId we select at first the blue marked region then the black marked region <br>
+
+![b32](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/0c1b1509-0f88-48a9-84f9-f4b2b2863bb4)
+
+Figure20: then we will the blue marked network option and find the chainId which is black marked <br>
 
 
 
@@ -359,6 +365,7 @@ main()
   });
 
 ```
+
 
 
 
