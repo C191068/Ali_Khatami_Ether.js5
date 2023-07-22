@@ -316,6 +316,11 @@ Figure19: To find the ChainId we select at first the blue marked region then the
 
 Figure20: then we will the blue marked network option and find the chainId which is black marked <br>
 
+![b33](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/29b0d713-c405-47a1-8d89-6375c0667cc0)
+
+Figure21: on ```Ganache``` the white marked region ```Network ID``` is equavalent to ```chainId``` <br>
+
+
 
 
 ```javascript
