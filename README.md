@@ -274,3 +274,6 @@ main()
 ```
 
 
+![b25](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/81051d78-0c4b-455f-a098-2661fac806bc)
+
+Figure13: here txcount is 3 
