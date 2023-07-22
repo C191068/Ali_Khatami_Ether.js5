@@ -427,6 +427,16 @@ figure31: In the console we can see our contract is successfuully deployed <br>
 Figure32: here at ```Ganache``` successful transactions occured <br>
 
 
+![b45](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/5c8eb987-8a48-42ac-abd2-d2e6bad722b2)
+
+Figure33: Here putting the cursor on the sendTransaction(tx) and right click then click ```Go to Definition```<br>
+or F12 <br>
+
+
+![b46](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/a6961233-cf7d-4184-aba1-6d0afe232650)
+Figure34: Then here in the file by this line of code ```const signedTx = await this.signTransaction(tx);``` <br>
+it means that the transcation is signed at first before sending <br>
+
 
 
 
