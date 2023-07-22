@@ -446,6 +446,9 @@ Figure35: every time we are changing the state of blockchain we are sending tran
 
 here data is differentiator, the data for us here is the data send to create a new contract <br>
 
+when we use functions in our smart contract the data we send in transac tion is data associated <br>
+with htis transactions <br>
+
 
 
 
