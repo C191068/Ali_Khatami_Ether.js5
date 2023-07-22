@@ -440,6 +440,11 @@ it means that the transcation is signed at first before sending <br>
 
 Thus , we have learned how to send transaction using pure javascript and pure ethers <br>
 
+![b47](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/329e0997-402a-44d3-89e3-f1f1fd850c1f)
+
+Figure35: every time we are changing the state of blockchain we are sending transaction which look like above<br>
+
+here data is differentiator, the data for us here is the data send to create a new contract <br>
 
 
 
