@@ -322,7 +322,7 @@ Figure21: on ```Ganache``` the white marked region ```Network ID``` is equavalen
 
 ![b34](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/930b1eac-4f38-4783-8ae9-8ac3969c0c73)
 
-Figure22: here the above yellow arrow indicated highlighted parts are information of transaction <br>
+Figure22: here the above yellow arrow indicated highlighted parts are information of transaction written in the form of code <br>
 
 
 ```javascript
