@@ -449,6 +449,9 @@ here data is differentiator, the data for us here is the data send to create a n
 when we use functions in our smart contract the data we send in transac tion is data associated <br>
 with htis transactions <br>
 
+![b48](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/03a7864f-9bbe-4149-824c-c5da318d42fc)
+
+Figure36: when nwe call function with Ethers or Hardhat we don't gonna use athe above thus we comment those <br>
 
 
 
