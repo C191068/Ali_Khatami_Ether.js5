@@ -282,6 +282,6 @@ Figure13: here txcount is 3
 
 Figure14: here that's why we have used nonce equal to 4 because we have not used it before <br>
 
-
+Everytime we send transaction it comes with a bit of ```nonce```. Nonce are used in wallets and signers to send transaction <br>
 
 
