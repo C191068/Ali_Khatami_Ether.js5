@@ -290,6 +290,16 @@ Nonce when talking about wallets talks about number associated with unique trans
 
 Nonce when talking about blockchain mining is a value used to solve that hard problem which was taught at blockchain basics <br>
 
+![b27](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/c29a8a0a-e15d-4a4b-aac1-63b56a4cbb7d)
+
+Figure15: To put the data in the white marked region we have to go to this binary file <br>
+
+![b28](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/d5c375b1-4961-4d01-becf-358cebcedde6)
+
+Figure16: we have to copy this data from there <br>
+
+![b29](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/24ffc7f5-ec1b-418f-b5d0-529c909ab8cf)
+Figure17: Then at data section after giving double quote within that after tuypin ```0x``` we have to paste it <br>
 
 
 
