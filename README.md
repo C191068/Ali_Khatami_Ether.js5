@@ -399,7 +399,7 @@ not send it <br>
 ![b39](https://github.com/C191068/Ali_Khatami_Ether.js5/assets/89090776/6491fe15-9311-4062-b419-8ee5fb685407)
 
 Figure27: To send a transaction we have use the three lines of code shown with white arrows <br>
-Then in the console when we deploy the contract(yellow arrow) we got error(blue underline) <br>
+Then in the console when we deploy the contract(yellow arrow) we got error(blue marked) <br>
 
 
 
